@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Fangjun Zhou. I'm a game developer.
+My name is Fishball. I'm a game developer.
+
+This is my [blog](https://fangjun-zhou.github.io/Blog/). I'll post some articles related to Unity Engine, game developing, and computer graphics here.
 
 Currently I'm working on my own Unity framework called TOKMAK Framework. You can check it out [here](https://github.com/Fangjun-Zhou/TOKMAK-Framework)
