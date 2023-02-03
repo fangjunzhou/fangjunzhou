@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Fishball. I'm a game developer.
+My name is Fishball. I'm a game developer. I'm a computer science student interested in all kinds of cutting-edge technology, including computer graphics, computer vision, and machine learning. I developed several personal projects and participated in some open-source projects. I deeply understood how to use algorithms, data structures, and design patterns in practice.
 
-This is my [blog](https://fangjun-zhou.github.io/Blog/). I'll post some articles related to Unity Engine, game developing, and computer graphics here.
-
-Currently I'm working on my own Unity framework called TOKMAK Framework. You can check it out [here](https://github.com/Fangjun-Zhou/TOKMAK-Framework)
+This is my [blog](https://fangjun-zhou.github.io). I'll post some articles related to game developing, computer graphics, and machine learning here.
