@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Fangjun Zhou. I'm a computer science student interested in all kinds of cutting-edge technology, including computer graphics, computer vision, and machine learning. I developed several personal projects and participated in some open-source projects. I deeply understood how to use algorithms, data structures, and design patterns in practice.
+My name is Fangjun Zhou. I'm a computer science student working on computer graphics and computer vision research.
 
-I'm also a game developer. I've worked on a Unity open source framework [TOKMAK Framework](https://github.com/Fangjun-Zhou/TOKMAK-Framework). This framework provides basic game development support including object pooling, event dispatcher, and timeline system.
+I was previously a game developer. I've worked on a Unity open-source framework and several indie games.
 
-This is my [blog](https://fangjunzhou.github.io). I'll post some articles related to game developing, computer graphics, computer vision, and algorithms here.
+This is my [blog](https://fangjunzhou.github.io). I'll post articles on computer graphics, computer vision, high-performance computing, and game development here.
+
+Here's my [memo page](https://memos.puffedpescado.com/). I'll share my thoughts here (i.e., shitpost).
